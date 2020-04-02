@@ -1,0 +1,28 @@
+
+https://www.youtube.com/watch?v=aFlAXLSHbCg
+
+https://www.youtube.com/watch?v=d56lRIAwQEI00
+https://www.youtube.com/watch?v=9uB7zfN6cAo
+https://www.youtube.com/watch?v=I3Ga5jICTHw
+https://www.youtube.com/watch?v=W1NhwqWC29M
+
+MAVEN Dependencies
+Cucumber  - Core
+Cucumber  - html
+Cucumber  - cobertura
+Cucumber  - java
+Cucumber  - junit
+Cucumber  - jvm-deps
+Cucumber  - reporting
+Cucumber  - hamcrest core
+gherkin
+selenium java 
+JUnit
+
+-----------
+
+
+
+
+https://www.youtube.com/watch?v=cojQy_E16Ms&list=PLUDwpEzHYYLs6G9WOfFxiH5zMfgNxgmSV&index=7
+
